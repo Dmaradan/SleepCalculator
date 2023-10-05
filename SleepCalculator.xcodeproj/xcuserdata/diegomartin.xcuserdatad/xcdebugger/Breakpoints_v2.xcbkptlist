@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BD49A3EB-25F7-43F5-8897-ECACF17BE635"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BA1B786-01C1-4302-96F4-FCA8EA4B6E57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SleepCalculator/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99">
+            <Locations>
+               <Location
+                  uuid = "9BA1B786-01C1-4302-96F4-FCA8EA4B6E57 - 388d40c55c832da9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SleepCalculator.ContentView.calculateBedtime() -&gt; ()"
+                  moduleName = "SleepCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diegomartin/Documents/iosCourse/SleepCalculator/SleepCalculator/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "2480">
+               </Location>
+               <Location
+                  uuid = "9BA1B786-01C1-4302-96F4-FCA8EA4B6E57 - 80be330bad9934df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SleepCalculator.ContentView.calculateBedtime() -&gt; Swift.String"
+                  moduleName = "SleepCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diegomartin/Documents/iosCourse/SleepCalculator/SleepCalculator/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1960">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
